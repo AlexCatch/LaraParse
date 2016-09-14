@@ -8,9 +8,15 @@
       "email": "calebfidecaro@gmail.com"
     }
   ],
+      "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/LFSoftware/parse-php-sdk"
+        }
+    ],
   "require": {
     "laravel/framework": "5.0.*|5.1.*|5.2.*",
-    "parse/php-sdk": "~1.2.0",
+    "parse/php-sdk": "dev-contains",
     "nesbot/carbon": "~1.16"
   },
   "autoload": {
