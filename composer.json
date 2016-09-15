@@ -8,7 +8,7 @@
       "email": "calebfidecaro@gmail.com"
     }
   ],
-      "repositories": [
+    "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/LFSoftware/parse-php-sdk"
